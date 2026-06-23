@@ -108,3 +108,20 @@ text-align:center;
 padding:20px;
 background:#111827;
 }
+
+.hero-buttons{
+display:flex;
+gap:15px;
+justify-content:center;
+margin-top:20px;
+flex-wrap:wrap;
+}
+
+.hero h2{
+margin:15px 0;
+}
+
+#projects,
+#certifications{
+padding:80px 8%;
+}
