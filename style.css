@@ -74,19 +74,18 @@ padding:120px 20px;
 
 .hero h1{
 
-font-size:4rem;
-
-font-weight:700;
-
 background:linear-gradient(
 90deg,
 #00f5ff,
 #a259ff
 );
 
+background-clip:text;
 -webkit-background-clip:text;
 
+color:transparent;
 -webkit-text-fill-color:transparent;
+
 }
 
 .hero h2{
